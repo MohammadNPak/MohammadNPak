@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 - [اینستاگرام](https://www.instagram.com/showmeyourcode.ir)
-- [showmeyourcode.ir](https://www.showmeyourcode.com/)
+- [showmeyourcode.ir](https://www.showmeyourcode.ir/)
 - [لینکدین](https://www.linkedin.com/in/mohammad-nozari-pak-679659120)
 - [یوتوب](https://youtube.com/channel/UC6VSQJXsM_Uv3eXJaVC2MTA)
 
